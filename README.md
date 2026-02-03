@@ -179,5 +179,5 @@ This app is free to use for everyone!
 ---
 
 <p align="center">
-  Made with love by <a href="https://github.com/Tech-Inclusion-Pro">Tech Inclusion Pro</a>
+  Made with love by Rocco Catrone at <a href="https://github.com/Tech-Inclusion-Pro">Tech Inclusion Pro</a>
 </p>
